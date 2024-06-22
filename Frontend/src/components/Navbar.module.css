@@ -1,0 +1,18 @@
+.customInput{
+    width: 800px;   
+}
+
+.customForm{
+    position: relative;
+   left: 300px;
+}
+
+.customLink{
+    margin-left: 45px;
+}
+
+.customLogo{
+    font-size: 30px;
+    position: relative;
+    left: 195px;
+}
